@@ -72,7 +72,7 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 ### Sua + Mimiru + Arin + Yeonhwa + Yuhwa + Seonbae
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYXC9IqILZFJqe0kyFjb9XwBuLldZnQBEMGJxI3h_iYX3w?e=Q4GrVH)
 
-Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ESfLsfGbqbJJkC6NmZ5R1TkBbVLvTLeLG3u8jB2UfA4jtQ?e=AlTmaR) (417 epochs)
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ERPxoGsG12lOn4LihxnwkGEBw3qil75tW__z-GAptnO2Iw?e=d077MU) (1164 epochs)
 ## Chinese & Japanese
 ### Nene + Nanami + Rong + Tang
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYZfZuW5jtxIqIesYOpFuB4BVWtItUIO2f9YxGQZelRxaQ?e=MCZPCL)
