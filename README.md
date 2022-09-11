@@ -85,8 +85,7 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 
 # HuBERT-VITS
 Download [HuBERT-Soft Model](https://github.com/bshall/hubert/releases/download/v0.1/hubert-soft-0d54a1f4.pt) from [bshall/hubert](https://github.com/bshall/hubert)
-## Japanese
-### Louise
+## Louise
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ETa-G4CTo4pNm7T7aVnbuUYBtOUuMdBCASYnXxgGc5ApIQ?e=6lp4rz)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EZMWDPf6MORLpA6wGfaqm1oBlETT0wUCuz92zgDvXX8oCw?e=VeBTwo) (360 epochs)
