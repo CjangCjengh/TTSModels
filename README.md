@@ -22,6 +22,11 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYMl9Cv8Dh5PqVSv-0FwjQIB87UiayTKrx7WtsDu822SfQ?e=kzwdX9)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EccGCxaWPs9LlYrtiQuQX-UBU7EmBXeMPL_oLS22xNtTrg?e=294P0A) (200 epochs)
+### DRACU-RIOT!
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EagNdyAO0TlFhjc6jLdRP_4BfZPE82Vz1sn0qFbkU5EYWA?e=Cp0Kvq)
+
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EZHnCfJvJclAqa91lpoByQoBAjUwGAEU6ISUHTk_J_dXRg?e=anJN4z) (639 epochs)
+
 ## Korean
 ### Sua + Mimiru + Arin + Yeonhwa + Yuhwa + Seonbae
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYXC9IqILZFJqe0kyFjb9XwBuLldZnQBEMGJxI3h_iYX3w?e=Q4GrVH)
