@@ -26,7 +26,10 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EagNdyAO0TlFhjc6jLdRP_4BfZPE82Vz1sn0qFbkU5EYWA?e=Cp0Kvq)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EZHnCfJvJclAqa91lpoByQoBAjUwGAEU6ISUHTk_J_dXRg?e=anJN4z) (639 epochs)
+### To LOVE Ru
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EUiZe3hWvjlBvwdcAsaRJzgB4-JJn2S54eyPZUg5H4C8bA?e=Q7d3Vf)
 
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EegGavlBw6FOubzxmdF3nz8BMGae7cwL4tjSxBTbj4aOxQ?e=Az5RYG) (1113 epochs)
 ## Korean
 ### Sua + Mimiru + Arin + Yeonhwa + Yuhwa + Seonbae
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYXC9IqILZFJqe0kyFjb9XwBuLldZnQBEMGJxI3h_iYX3w?e=Q4GrVH)
