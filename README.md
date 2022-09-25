@@ -31,20 +31,20 @@ Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EegGavlBw6FOubzxmdF3nz8BMGae7cwL4tjSxBTbj4aOxQ?e=Az5RYG) (1113 epochs)
 ## Korean
-### Vaksancayah
-Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EboDCAEPOo5CgpYPz7ngZr4Bnf6_bn2_PioIrnPfk0RxUg?e=nWAEcr)
+### The Fox Awaits Me
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYXC9IqILZFJqe0kyFjb9XwBuLldZnQBEMGJxI3h_iYX3w?e=Q4GrVH)
 
-Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EXjE7oiLIgpPs6Fm8u5MvdEBUC7YxgAIHutpGV9wK016OQ?e=oPwgdC) (329 epochs)
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ERPxoGsG12lOn4LihxnwkGEBw3qil75tW__z-GAptnO2Iw?e=d077MU) (1164 epochs)
 ## Chinese & Japanese
 ### Nene + Nanami + Rong + Tang
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYZfZuW5jtxIqIesYOpFuB4BVWtItUIO2f9YxGQZelRxaQ?e=MCZPCL)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EQ0IKHchgzZAt0E6GryW17EBsIlIkmby6BcO9FtoODjwNQ?e=5uzWtj) (1374 epochs)
 ## Sanskrit
-### Sua + Mimiru + Arin + Yeonhwa + Yuhwa + Seonbae
-Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYXC9IqILZFJqe0kyFjb9XwBuLldZnQBEMGJxI3h_iYX3w?e=Q4GrVH)
+### Vaksancayah
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EboDCAEPOo5CgpYPz7ngZr4Bnf6_bn2_PioIrnPfk0RxUg?e=nWAEcr)
 
-Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ERPxoGsG12lOn4LihxnwkGEBw3qil75tW__z-GAptnO2Iw?e=d077MU) (1164 epochs)
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EXjE7oiLIgpPs6Fm8u5MvdEBUC7YxgAIHutpGV9wK016OQ?e=oPwgdC) (329 epochs)
 
 # HuBERT-VITS
 Download [HuBERT-Soft Model](https://github.com/bshall/hubert/releases/download/v0.1/hubert-soft-0d54a1f4.pt) from [bshall/hubert](https://github.com/bshall/hubert)
