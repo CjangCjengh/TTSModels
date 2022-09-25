@@ -14,7 +14,7 @@ Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EXTQrTj-UJpItH3BmgIUvhgBNZk88P1tT_7GPNr4yegNyw?e=5mcwgl) (365 epochs)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYH0aVcuLbVAgdTVRjmNNDgB8xSSBINAIHByWL1tp97hWg?e=ZvegdK) (H excluded)
-### Hiyori + Kano + Asumi + Sio + Ameri + Miri + Hiromu + Ririko
+### Hamidashi Creative
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EbYG4z3PmwhKibN59Sb8GTkBHr7gvbz6tWtsuwkmtqB8oA?e=cbxH86)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ERNCwIXf51JGrkDODZ2Iy5oBpPKDPEvnd486ypQQyGmzZQ?e=1sSIED) (604 epochs)
@@ -31,15 +31,20 @@ Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EegGavlBw6FOubzxmdF3nz8BMGae7cwL4tjSxBTbj4aOxQ?e=Az5RYG) (1113 epochs)
 ## Korean
-### Sua + Mimiru + Arin + Yeonhwa + Yuhwa + Seonbae
-Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYXC9IqILZFJqe0kyFjb9XwBuLldZnQBEMGJxI3h_iYX3w?e=Q4GrVH)
+### Vaksancayah
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EboDCAEPOo5CgpYPz7ngZr4Bnf6_bn2_PioIrnPfk0RxUg?e=nWAEcr)
 
-Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ERPxoGsG12lOn4LihxnwkGEBw3qil75tW__z-GAptnO2Iw?e=d077MU) (1164 epochs)
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EXjE7oiLIgpPs6Fm8u5MvdEBUC7YxgAIHutpGV9wK016OQ?e=oPwgdC) (329 epochs)
 ## Chinese & Japanese
 ### Nene + Nanami + Rong + Tang
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYZfZuW5jtxIqIesYOpFuB4BVWtItUIO2f9YxGQZelRxaQ?e=MCZPCL)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EQ0IKHchgzZAt0E6GryW17EBsIlIkmby6BcO9FtoODjwNQ?e=5uzWtj) (1374 epochs)
+## Sanskrit
+### Sua + Mimiru + Arin + Yeonhwa + Yuhwa + Seonbae
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYXC9IqILZFJqe0kyFjb9XwBuLldZnQBEMGJxI3h_iYX3w?e=Q4GrVH)
+
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ERPxoGsG12lOn4LihxnwkGEBw3qil75tW__z-GAptnO2Iw?e=d077MU) (1164 epochs)
 
 # HuBERT-VITS
 Download [HuBERT-Soft Model](https://github.com/bshall/hubert/releases/download/v0.1/hubert-soft-0d54a1f4.pt) from [bshall/hubert](https://github.com/bshall/hubert)
