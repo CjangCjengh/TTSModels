@@ -45,6 +45,11 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EboDCAEPOo5CgpYPz7ngZr4Bnf6_bn2_PioIrnPfk0RxUg?e=nWAEcr)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EXjE7oiLIgpPs6Fm8u5MvdEBUC7YxgAIHutpGV9wK016OQ?e=oPwgdC) (329 epochs)
+## Chinese & Japanese & Korean & Sanskrit
+### CJKS
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ESicAwO-GUtEvua06_s79e4Bp1E07Q_eRD0JqvTAXmMaDQ)
+
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EQY5lDKEocRDnymcbRzg6LYBlmodckC29me9CzQxwPnh2w?e=uqaFXr) (406 epochs)
 
 # HuBERT-VITS
 Download [HuBERT-Soft Model](https://github.com/bshall/hubert/releases/download/v0.1/hubert-soft-0d54a1f4.pt) from [bshall/hubert](https://github.com/bshall/hubert)
