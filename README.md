@@ -54,7 +54,7 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 ### Shanghainese
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EX4B8R1K38tNqkDz1o94KusBjRy-yxlWGAUqvK5gPOUKig?e=HzVaEC)
 
-Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/Ec8biE40NqtPghmozjeqjXcB4FTsuBFEhsgB-atvU2csjg?e=a0dgOD) (2455 epochs)
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EfnEO6kW-CNNhywJmIZNPU0BUmFdSArguFETp0pjtvHZBA?e=dKJULk) (2796 epochs)
 
 # HuBERT-VITS
 Download [HuBERT-Soft Model](https://github.com/bshall/hubert/releases/download/v0.1/hubert-soft-0d54a1f4.pt) from [bshall/hubert](https://github.com/bshall/hubert)
