@@ -55,6 +55,11 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EX4B8R1K38tNqkDz1o94KusBjRy-yxlWGAUqvK5gPOUKig?e=HzVaEC)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EfnEO6kW-CNNhywJmIZNPU0BUmFdSArguFETp0pjtvHZBA?e=dKJULk) (2796 epochs)
+## Thai
+# Jolly Estaa
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EfTTkutX635NpKSmom_sPasBq6-urPU-oniMXEER_5lpbw?e=6J1Et0)
+
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EUHKpKdfhQ1BhgQ_z76zCC0BstxCTRKImi3nUwNvJ7QMTg?e=o6LekQ) (857 epochs)
 
 # HuBERT-VITS
 Download [HuBERT-Soft Model](https://github.com/bshall/hubert/releases/download/v0.1/hubert-soft-0d54a1f4.pt) from [bshall/hubert](https://github.com/bshall/hubert)
