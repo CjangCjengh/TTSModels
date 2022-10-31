@@ -65,6 +65,11 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ERQ2nNccQmBHhnbxItByn0YB0SQ-UHCahzoIGXb2RA-FoQ?e=mQ6fKo)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/Eaqh6fybzd5NmghjSxsIooQBFEaHKOT3aVJ_GOpqYCDrfw?e=iTFafl) (402 epochs)
+## Japanese & Chinese dialects
+### Ngu dialects & Cantonese
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EbtTeDZwyyxEgDO8h1CwSXoBBiCNAnFwvkNEhHxVtjRBpQ?e=xtr3sx)
+
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EWrZ6l7NIhpLtPqJcuM1d80B6YsZ4JLZxyA3nNXKMTjf1Q?e=5HnrOJ) (321 epochs)
 
 # HuBERT-VITS
 Download [HuBERT-Soft Model](https://github.com/bshall/hubert/releases/download/v0.1/hubert-soft-0d54a1f4.pt) from [bshall/hubert](https://github.com/bshall/hubert)
