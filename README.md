@@ -78,3 +78,10 @@ Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EZMWDPf6MORLpA6wGfaqm1oBlETT0wUCuz92zgDvXX8oCw?e=VeBTwo) (360 epochs)
 
+# W2V2-VITS
+Download [dimensional emotion model](https://zenodo.org/record/6221127/files/w2v2-L-robust-12.6bc4a7fd-1.1.0.zip?download=1) from [audeering/w2v2-how-to](https://github.com/audeering/w2v2-how-to)
+## Chinese & Japanese
+### Nene + Nanami + Rong + Tang
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EVmdN1gWEEFNpqY-BVHEV1gB9IJeK0tycD-sQ4omVysdOw?e=d7jj63)
+
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EQrmhXnSFrFFq8nmk6uaDacBOP4cmSeQupC9MbMzJ2Kzeg?e=wcY9zB) (1026 epochs)
