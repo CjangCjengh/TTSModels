@@ -21,7 +21,7 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 ### Zero no tsukaima
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EYMl9Cv8Dh5PqVSv-0FwjQIB87UiayTKrx7WtsDu822SfQ?e=kzwdX9)
 
-Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/Ebp_w4zegd5OjIQ60HP96rkB4QooxqljJlgeIhp_7nQKzw?e=N5mwR7) (616 epochs)
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ERj_gBqhjNJBu95j3TXMcrYB2ZxYojk4BRnUBiHPYfB_KA?e=VdehLe) (616 epochs)
 ### DRACU-RIOT!
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EagNdyAO0TlFhjc6jLdRP_4BfZPE82Vz1sn0qFbkU5EYWA?e=Cp0Kvq)
 
@@ -64,7 +64,7 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 ### Voistock
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/ERQ2nNccQmBHhnbxItByn0YB0SQ-UHCahzoIGXb2RA-FoQ?e=mQ6fKo)
 
-Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/Eaqh6fybzd5NmghjSxsIooQBFEaHKOT3aVJ_GOpqYCDrfw?e=iTFafl) (402 epochs)
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EfW8nGHBejxEisHhxVjq1v4BOxqT7YJ-p_pudTPEoDDxxw?e=O8DNrR) (402 epochs)
 ## Japanese & Chinese dialects
 ### Ngu dialects & Cantonese
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EbtTeDZwyyxEgDO8h1CwSXoBBiCNAnFwvkNEhHxVtjRBpQ?e=xtr3sx)
