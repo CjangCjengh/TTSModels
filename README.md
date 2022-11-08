@@ -1,6 +1,8 @@
 # ATTENTION!!
 ## All models and their derivatives provided on this page are prohibited from commercial use!
 ## 本页面提供的所有模型及其衍生物严禁商用！
+## Please bear all consequences caused by using the models below!
+## 请自行承担使用模型而造成的一切后果！
 
 # VITS
 ## Online demo
