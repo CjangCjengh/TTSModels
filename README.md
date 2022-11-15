@@ -87,3 +87,7 @@ Download [dimensional emotion model](https://zenodo.org/record/6221127/files/w2v
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EVmdN1gWEEFNpqY-BVHEV1gB9IJeK0tycD-sQ4omVysdOw?e=d7jj63)
 
 Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EQrmhXnSFrFFq8nmk6uaDacBOP4cmSeQupC9MbMzJ2Kzeg?e=wcY9zB) (1026 epochs)
+### Voistock
+Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EXPMFcctut9Ng6oi9pcfeOoBOXnOb0OEbcHeUB0HSoI0hw?e=EOb60C)
+
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EVjbuUmeDhBKojZgUPf0oYsBRPvHpY5n0wbDxubsqEFrcw?e=K3Xmdx) (120 epochs)
