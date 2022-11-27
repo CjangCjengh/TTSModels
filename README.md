@@ -90,4 +90,4 @@ Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh
 ### Voistock
 Download [Config File](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EXPMFcctut9Ng6oi9pcfeOoBOXnOb0OEbcHeUB0HSoI0hw?e=EOb60C)
 
-Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EVjbuUmeDhBKojZgUPf0oYsBRPvHpY5n0wbDxubsqEFrcw?e=K3Xmdx) (120 epochs)
+Download [Model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/cjang_cjengh_sjtu_edu_cn/EZ8LvEw8JTFMsZ8dMX9igsQBrV1G8fYpD0iJSd9X9SN5sQ?e=kUpOtd) (222 epochs)
